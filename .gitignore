@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Generated data & charts
+data/games.csv
+charts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
